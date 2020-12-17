@@ -1,0 +1,15 @@
+C:\Users\Jefter Alves\source\repos\Jefter.Negociacao_B3\Jefter.Negociacao_B3.Visualizacao\bin\Debug\Jefter.Negociacao_B3.Visualizacao.exe.config
+C:\Users\Jefter Alves\source\repos\Jefter.Negociacao_B3\Jefter.Negociacao_B3.Visualizacao\bin\Debug\Jefter.Negociacao_B3.Visualizacao.exe
+C:\Users\Jefter Alves\source\repos\Jefter.Negociacao_B3\Jefter.Negociacao_B3.Visualizacao\bin\Debug\Jefter.Negociacao_B3.Visualizacao.pdb
+C:\Users\Jefter Alves\source\repos\Jefter.Negociacao_B3\Jefter.Negociacao_B3.Visualizacao\bin\Debug\Jefter.Negociacao_B3.Dominio.dll
+C:\Users\Jefter Alves\source\repos\Jefter.Negociacao_B3\Jefter.Negociacao_B3.Visualizacao\bin\Debug\Jefter.Negociacao_B3.Negocios.dll
+C:\Users\Jefter Alves\source\repos\Jefter.Negociacao_B3\Jefter.Negociacao_B3.Visualizacao\bin\Debug\Jefter.Negociacao_B3.Dominio.pdb
+C:\Users\Jefter Alves\source\repos\Jefter.Negociacao_B3\Jefter.Negociacao_B3.Visualizacao\bin\Debug\Jefter.Negociacao_B3.Negocios.pdb
+C:\Users\Jefter Alves\source\repos\Jefter.Negociacao_B3\Jefter.Negociacao_B3.Visualizacao\obj\Debug\Jefter.Negociacao_B3.Visualizacao.csprojAssemblyReference.cache
+C:\Users\Jefter Alves\source\repos\Jefter.Negociacao_B3\Jefter.Negociacao_B3.Visualizacao\obj\Debug\Jefter.Negociacao_B3.Visualizacao.CadClientes.resources
+C:\Users\Jefter Alves\source\repos\Jefter.Negociacao_B3\Jefter.Negociacao_B3.Visualizacao\obj\Debug\Jefter.Negociacao_B3.Visualizacao.Properties.Resources.resources
+C:\Users\Jefter Alves\source\repos\Jefter.Negociacao_B3\Jefter.Negociacao_B3.Visualizacao\obj\Debug\Jefter.Negociacao_B3.Visualizacao.csproj.GenerateResource.cache
+C:\Users\Jefter Alves\source\repos\Jefter.Negociacao_B3\Jefter.Negociacao_B3.Visualizacao\obj\Debug\Jefter.Negociacao_B3.Visualizacao.csproj.CoreCompileInputs.cache
+C:\Users\Jefter Alves\source\repos\Jefter.Negociacao_B3\Jefter.Negociacao_B3.Visualizacao\obj\Debug\Jefter.Negociacao_B3.Visualizacao.csproj.CopyComplete
+C:\Users\Jefter Alves\source\repos\Jefter.Negociacao_B3\Jefter.Negociacao_B3.Visualizacao\obj\Debug\Jefter.Negociacao_B3.Visualizacao.exe
+C:\Users\Jefter Alves\source\repos\Jefter.Negociacao_B3\Jefter.Negociacao_B3.Visualizacao\obj\Debug\Jefter.Negociacao_B3.Visualizacao.pdb

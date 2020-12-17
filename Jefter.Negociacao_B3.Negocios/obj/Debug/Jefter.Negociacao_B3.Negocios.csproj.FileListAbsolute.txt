@@ -1,0 +1,11 @@
+C:\Users\Jefter Alves\source\repos\Jefter.Negociacao_B3\Jefter.Negociacao_B3.Negocios\bin\Debug\Jefter.Negociacao_B3.Negocios.dll
+C:\Users\Jefter Alves\source\repos\Jefter.Negociacao_B3\Jefter.Negociacao_B3.Negocios\bin\Debug\Jefter.Negociacao_B3.Negocios.pdb
+C:\Users\Jefter Alves\source\repos\Jefter.Negociacao_B3\Jefter.Negociacao_B3.Negocios\bin\Debug\Jefter.Negociacao_B3.Dados.dll
+C:\Users\Jefter Alves\source\repos\Jefter.Negociacao_B3\Jefter.Negociacao_B3.Negocios\bin\Debug\Jefter.Negociacao_B3.Dominio.dll
+C:\Users\Jefter Alves\source\repos\Jefter.Negociacao_B3\Jefter.Negociacao_B3.Negocios\bin\Debug\Jefter.Negociacao_B3.Dados.pdb
+C:\Users\Jefter Alves\source\repos\Jefter.Negociacao_B3\Jefter.Negociacao_B3.Negocios\bin\Debug\Jefter.Negociacao_B3.Dominio.pdb
+C:\Users\Jefter Alves\source\repos\Jefter.Negociacao_B3\Jefter.Negociacao_B3.Negocios\obj\Debug\Jefter.Negociacao_B3.Negocios.csprojAssemblyReference.cache
+C:\Users\Jefter Alves\source\repos\Jefter.Negociacao_B3\Jefter.Negociacao_B3.Negocios\obj\Debug\Jefter.Negociacao_B3.Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Jefter Alves\source\repos\Jefter.Negociacao_B3\Jefter.Negociacao_B3.Negocios\obj\Debug\Jefter.Negociacao_B3.Negocios.csproj.CopyComplete
+C:\Users\Jefter Alves\source\repos\Jefter.Negociacao_B3\Jefter.Negociacao_B3.Negocios\obj\Debug\Jefter.Negociacao_B3.Negocios.dll
+C:\Users\Jefter Alves\source\repos\Jefter.Negociacao_B3\Jefter.Negociacao_B3.Negocios\obj\Debug\Jefter.Negociacao_B3.Negocios.pdb
